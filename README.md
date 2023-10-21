@@ -1,2 +1,2 @@
 # Frontend-105
-Kodluyoruz ödevi kapsamında hazı kod blokları kullanılarak  yapılmıştır.
+Kodluyoruz ödevi kapsamında hazır kod blokları kullanılarak  yapılmıştır.
